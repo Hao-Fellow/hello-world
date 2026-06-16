@@ -1,0 +1,4 @@
+# Compiled binary
+hello
+*.o
+*.out
